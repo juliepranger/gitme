@@ -1,0 +1,3 @@
+class TacosController < ApplicationController
+
+end
